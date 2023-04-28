@@ -7,7 +7,7 @@
     "bootstrap": "^3.3.7",
     "enzyme": "^3.4.4",
     "jstree": "^3.3.5",
-    "popper.js": "^1.14.4",
+    "popper.js": "^1.16.1",
     "prop-types": "^15.6.2",
     "react": "^16.4.2",
     "react-bootstrap": "^0.32.3",
